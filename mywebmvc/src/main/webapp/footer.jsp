@@ -1,0 +1,8 @@
+
+        <footer class="page-footer font-small unique-color-dark pt-4">
+          <div class="footer-copyright text-center py-3">© 2022 Copyright
+          </div>
+
+        </footer>
+         <script src="js/jquery-3.6.0.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
